@@ -2,7 +2,7 @@
 [![Release](https://img.shields.io/github/v/release/IchBinLeoon/slogx?style=flat-square)](https://github.com/IchBinLeoon/slogx/releases)
 [![Go](https://img.shields.io/github/go-mod/go-version/IchBinLeoon/slogx?style=flat-square)](https://golang.org/)
 [![License](https://img.shields.io/github/license/IchBinLeoon/slogx?style=flat-square)](https://github.com/IchBinLeoon/slogx/blob/main/LICENSE)
-[![Code Size](https://img.shields.io/github/languages/code-size/IchBinLeoon/slogx)](https://github.com/IchBinLeoon/slogx/blob/main/slogx.go)
+[![Code Size](https://img.shields.io/github/languages/code-size/IchBinLeoon/slogx?style=flat-square)](https://github.com/IchBinLeoon/slogx/blob/main/slogx.go)
 
 A minimal level based logging library for Go.
 
